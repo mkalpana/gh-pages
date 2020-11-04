@@ -3,7 +3,7 @@
     <title>Test Pages</title>
     <link href="https://github.com/mkalpana/gh-pages/feed.xml" rel="self" />
     <link href="https://github.com/mkalpana/gh-pages" />
-    <updated>2020-11-04T18:02:12+11:00</updated>
+    <updated>2020-11-04T18:22:00+11:00</updated>
     <author>
         <name>Test Author</name>
     </author>
@@ -20,12 +20,12 @@
             <category term="new"/>
             <category term="more"/>
 
-        <updated>2020-11-04T18:02:12+11:00</updated>
+        <updated>2020-11-04T18:22:00+11:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://github.com/mkalpana/gh-pages/media/posts/2/photo-1604419688654-254f2a20ab40.jpeg" alt="Hello" />
                     <p> </p>
-<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo. In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>
+<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. <em><strong><span style="color: #169179;">Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo.</span></strong></em> In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>
 
                 ]]>
             </summary>
@@ -33,7 +33,7 @@
             <![CDATA[
                     <img src="https://github.com/mkalpana/gh-pages/media/posts/2/photo-1604419688654-254f2a20ab40.jpeg" alt="Hello" />
                 <p> </p>
-<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo. In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>
+<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. <em><strong><span style="color: #169179;">Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo.</span></strong></em> In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>
 
 <p>Donec est nulla, ornare sit amet rutrum sed, bibendum bibendum purus. Ut eleifend vestibulum venenatis. Nam commodo odio id aliquam sollicitudin. Praesent at blandit nibh, a lobortis massa. Vivamus vel ex risus. Nam sed ante enim. Ut nec leo elit. Mauris tincidunt urna quis ex scelerisque cursus.</p>
 <p>Etiam eget viverra nisi. Aliquam ornare leo vitae felis cursus, at mollis nisl placerat. Etiam est velit, volutpat placerat ante at, lacinia congue turpis. Sed molestie urna nec lacus lacinia feugiat. Sed efficitur lorem sit amet quam facilisis vulputate. Aliquam erat volutpat. Fusce at quam non elit ultrices ornare quis at odio. Maecenas vulputate in augue non mollis. Nam vel tortor venenatis, volutpat nunc eu, euismod ligula. Vestibulum non justo nec purus dictum faucibus sed ut nisi. Integer consectetur diam vel ex fringilla, at sodales ante blandit. Pellentesque tempus sem sit amet ultricies ultrices.</p>
