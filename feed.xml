@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test Pages</title>
+    <link href="https://github.com/mkalpana/gh-pages/feed.xml" rel="self" />
+    <link href="https://github.com/mkalpana/gh-pages" />
+    <updated>2020-11-04T18:02:12+11:00</updated>
+    <author>
+        <name>Test Author</name>
+    </author>
+    <id>https://github.com/mkalpana/gh-pages</id>
+
+    <entry>
+        <title>This is a demo post 2</title>
+        <author>
+            <name>Test Author</name>
+        </author>
+        <link href="https://github.com/mkalpana/gh-pages/this-is-a-demo-post-2/"/>
+        <id>https://github.com/mkalpana/gh-pages/this-is-a-demo-post-2/</id>
+            <category term="post"/>
+            <category term="new"/>
+            <category term="more"/>
+
+        <updated>2020-11-04T18:02:12+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/mkalpana/gh-pages/media/posts/2/photo-1604419688654-254f2a20ab40.jpeg" alt="Hello" />
+                    <p> </p>
+<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo. In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/mkalpana/gh-pages/media/posts/2/photo-1604419688654-254f2a20ab40.jpeg" alt="Hello" />
+                <p> </p>
+<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo. In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>
+
+<p>Donec est nulla, ornare sit amet rutrum sed, bibendum bibendum purus. Ut eleifend vestibulum venenatis. Nam commodo odio id aliquam sollicitudin. Praesent at blandit nibh, a lobortis massa. Vivamus vel ex risus. Nam sed ante enim. Ut nec leo elit. Mauris tincidunt urna quis ex scelerisque cursus.</p>
+<p>Etiam eget viverra nisi. Aliquam ornare leo vitae felis cursus, at mollis nisl placerat. Etiam est velit, volutpat placerat ante at, lacinia congue turpis. Sed molestie urna nec lacus lacinia feugiat. Sed efficitur lorem sit amet quam facilisis vulputate. Aliquam erat volutpat. Fusce at quam non elit ultrices ornare quis at odio. Maecenas vulputate in augue non mollis. Nam vel tortor venenatis, volutpat nunc eu, euismod ligula. Vestibulum non justo nec purus dictum faucibus sed ut nisi. Integer consectetur diam vel ex fringilla, at sodales ante blandit. Pellentesque tempus sem sit amet ultricies ultrices.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is a demo post 1</title>
+        <author>
+            <name>Test Author</name>
+        </author>
+        <link href="https://github.com/mkalpana/gh-pages/this-is-a-demo-post/"/>
+        <id>https://github.com/mkalpana/gh-pages/this-is-a-demo-post/</id>
+            <category term="post"/>
+            <category term="new"/>
+
+        <updated>2020-11-04T18:01:58+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/mkalpana/gh-pages/media/posts/1/photo-1604341840998-21b60318970f.jpeg" alt="Hello" />
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque malesuada aliquam neque, in auctor quam interdum vel. Pellentesque non mi ac tellus posuere commodo. Vivamus in mollis leo. Mauris maximus fermentum mauris. Suspendisse fringilla mollis risus, sed facilisis lectus. Vivamus nec pellentesque leo. Praesent pellentesque bibendum odio at scelerisque. Sed pretium lorem iaculis urna tincidunt mattis. Nunc finibus sit amet magna quis consequat. Integer egestas ipsum tincidunt sem posuere lobortis. Quisque eget rutrum ante, et sollicitudin velit. Nullam dapibus rutrum quam in posuere. Aliquam malesuada neque vitae lobortis consectetur. Sed ac metus ipsum. Morbi ornare orci sed metus tempor, nec eleifend nibh congue. Maecenas vel est consectetur nunc hendrerit condimentum.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/mkalpana/gh-pages/media/posts/1/photo-1604341840998-21b60318970f.jpeg" alt="Hello" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque malesuada aliquam neque, in auctor quam interdum vel. Pellentesque non mi ac tellus posuere commodo. Vivamus in mollis leo. Mauris maximus fermentum mauris. Suspendisse fringilla mollis risus, sed facilisis lectus. Vivamus nec pellentesque leo. Praesent pellentesque bibendum odio at scelerisque. Sed pretium lorem iaculis urna tincidunt mattis. Nunc finibus sit amet magna quis consequat. Integer egestas ipsum tincidunt sem posuere lobortis. Quisque eget rutrum ante, et sollicitudin velit. Nullam dapibus rutrum quam in posuere. Aliquam malesuada neque vitae lobortis consectetur. Sed ac metus ipsum. Morbi ornare orci sed metus tempor, nec eleifend nibh congue. Maecenas vel est consectetur nunc hendrerit condimentum.</p>
+
+<p>Ut semper hendrerit tellus, nec finibus lacus mattis sit amet. Morbi porttitor accumsan nisl sit amet facilisis. Vivamus quis lorem lorem. Maecenas finibus, nisl sit amet viverra interdum, ipsum nulla fermentum tellus, id consequat felis risus et erat. Fusce suscipit, dolor nec efficitur vestibulum, nunc magna suscipit justo, eu commodo nunc lacus sit amet turpis. Pellentesque nec dapibus urna. Nullam semper lacus non arcu maximus vulputate. Nullam congue eleifend ante, aliquet maximus lectus condimentum vitae. Mauris dapibus sem urna, at posuere eros accumsan et. Aenean tempus dui ipsum, quis auctor diam auctor ut. Cras facilisis viverra tortor eu dignissim. Vestibulum ac fermentum dolor. Aliquam non ultrices dui, vitae molestie lacus.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
