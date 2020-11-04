@@ -5,16 +5,81 @@
     "home_page_url": "https://mkalpana.github.io/gh-pages",
     "feed_url": "https://mkalpana.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://mkalpana.github.io/gh-pages/media/website/photo-1524995997946-a1c2e315a42f.jpeg",
     "author": {
         "name": "Test Author"
     },
     "items": [
         {
+            "id": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-5/",
+            "url": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-5/",
+            "title": "Chapter 4: Where it concludes",
+            "summary": "<p>Praesent at nisi ac lorem sollicitudin tincidunt. Maecenas vestibulum efficitur ipsum vel maximus. Integer lacinia ut ex nec aliquet. Pellentesque mollis nunc nibh. Nulla suscipit eros sed placerat pellentesque. Praesent rhoncus mattis lorem nec rhoncus. Quisque tempus ipsum ut tortor pharetra, a mattis justo placerat. Ut mauris sapien, interdum in efficitur eu, mattis ut felis. Phasellus facilisis ex non mauris pulvinar euismod. Ut lacinia, massa sit amet dapibus commodo, massa ipsum dapibus dui, at rutrum magna erat eu sapien. Aenean maximus metus et luctus facilisis. Etiam nec ex sed ante molestie ullamcorper ut ut dolor. Suspendisse massa arcu, varius vitae orci vitae, sodales tincidunt nisl. Mauris blandit suscipit elit, at egestas lectus vulputate sit amet.</p>\n",
+            "content_html": "<p>Praesent at nisi ac lorem sollicitudin tincidunt. Maecenas vestibulum efficitur ipsum vel maximus. Integer lacinia ut ex nec aliquet. Pellentesque mollis nunc nibh. Nulla suscipit eros sed placerat pellentesque. Praesent rhoncus mattis lorem nec rhoncus. Quisque tempus ipsum ut tortor pharetra, a mattis justo placerat. Ut mauris sapien, interdum in efficitur eu, mattis ut felis. Phasellus facilisis ex non mauris pulvinar euismod. Ut lacinia, massa sit amet dapibus commodo, massa ipsum dapibus dui, at rutrum magna erat eu sapien. Aenean maximus metus et luctus facilisis. Etiam nec ex sed ante molestie ullamcorper ut ut dolor. Suspendisse massa arcu, varius vitae orci vitae, sodales tincidunt nisl. Mauris blandit suscipit elit, at egestas lectus vulputate sit amet.</p>\n\n<p>Nulla sapien nunc, ornare eget risus et, tincidunt dapibus mi. Etiam laoreet, quam a eleifend convallis, dolor libero placerat nisi, ut eleifend dolor nulla vitae tellus. Morbi varius, neque vitae dapibus luctus, lacus odio vulputate eros, eget aliquam ex neque sit amet mauris. Proin in neque venenatis eros hendrerit posuere. Nulla faucibus est turpis, quis malesuada libero tristique ut. Phasellus non diam odio. Vestibulum efficitur quis nisi ac viverra. Suspendisse tristique scelerisque velit eget cursus. Ut lectus ante, luctus eget erat sed, congue cursus risus. Mauris a urna lacus. Aliquam erat volutpat. Donec ut elit velit. Maecenas sodales, est sit amet vestibulum luctus, elit risus tempor libero, vel ullamcorper erat lectus sit amet arcu. Fusce vehicula, ante non pulvinar varius, est nisi rutrum diam, id elementum mi erat non tellus. Proin dolor nulla, suscipit eu augue sed, tincidunt facilisis diam. Ut luctus viverra turpis, eu efficitur purus rutrum id.</p>",
+            "image": "https://mkalpana.github.io/gh-pages/media/posts/7/Book1_4.jpeg",
+            "author": {
+                "name": "Test Author"
+            },
+            "tags": [
+                   "Book1"
+            ],
+            "date_published": "2020-11-04T20:03:15+11:00",
+            "date_modified": "2020-11-04T20:03:15+11:00"
+        },
+        {
+            "id": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-4/",
+            "url": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-4/",
+            "title": "Chapter 3: Where it still continues...",
+            "summary": "<p>Praesent at nisi ac lorem sollicitudin tincidunt. Maecenas vestibulum efficitur ipsum vel maximus. Integer lacinia ut ex nec aliquet. Pellentesque mollis nunc nibh. Nulla suscipit eros sed placerat pellentesque. Praesent rhoncus mattis lorem nec rhoncus. Quisque tempus ipsum ut tortor pharetra, a mattis justo placerat. Ut mauris sapien, interdum in efficitur eu, mattis ut felis. Phasellus facilisis ex non mauris pulvinar euismod. Ut lacinia, massa sit amet dapibus commodo, massa ipsum dapibus dui, at rutrum magna erat eu sapien. Aenean maximus metus et luctus facilisis. Etiam nec ex sed ante molestie ullamcorper ut ut dolor. Suspendisse massa arcu, varius vitae orci vitae, sodales tincidunt nisl. Mauris blandit suscipit elit, at egestas lectus vulputate sit amet.</p>\n",
+            "content_html": "<p>Praesent at nisi ac lorem sollicitudin tincidunt. Maecenas vestibulum efficitur ipsum vel maximus. Integer lacinia ut ex nec aliquet. Pellentesque mollis nunc nibh. Nulla suscipit eros sed placerat pellentesque. Praesent rhoncus mattis lorem nec rhoncus. Quisque tempus ipsum ut tortor pharetra, a mattis justo placerat. Ut mauris sapien, interdum in efficitur eu, mattis ut felis. Phasellus facilisis ex non mauris pulvinar euismod. Ut lacinia, massa sit amet dapibus commodo, massa ipsum dapibus dui, at rutrum magna erat eu sapien. Aenean maximus metus et luctus facilisis. Etiam nec ex sed ante molestie ullamcorper ut ut dolor. Suspendisse massa arcu, varius vitae orci vitae, sodales tincidunt nisl. Mauris blandit suscipit elit, at egestas lectus vulputate sit amet.</p>\n\n<p>Nulla sapien nunc, ornare eget risus et, tincidunt dapibus mi. Etiam laoreet, quam a eleifend convallis, dolor libero placerat nisi, ut eleifend dolor nulla vitae tellus. Morbi varius, neque vitae dapibus luctus, lacus odio vulputate eros, eget aliquam ex neque sit amet mauris. Proin in neque venenatis eros hendrerit posuere. Nulla faucibus est turpis, quis malesuada libero tristique ut. Phasellus non diam odio. Vestibulum efficitur quis nisi ac viverra. Suspendisse tristique scelerisque velit eget cursus. Ut lectus ante, luctus eget erat sed, congue cursus risus. Mauris a urna lacus. Aliquam erat volutpat. Donec ut elit velit. Maecenas sodales, est sit amet vestibulum luctus, elit risus tempor libero, vel ullamcorper erat lectus sit amet arcu. Fusce vehicula, ante non pulvinar varius, est nisi rutrum diam, id elementum mi erat non tellus. Proin dolor nulla, suscipit eu augue sed, tincidunt facilisis diam. Ut luctus viverra turpis, eu efficitur purus rutrum id.</p>",
+            "image": "https://mkalpana.github.io/gh-pages/media/posts/6/Book1_3.jpeg",
+            "author": {
+                "name": "Test Author"
+            },
+            "tags": [
+                   "Book1"
+            ],
+            "date_published": "2020-11-04T20:02:33+11:00",
+            "date_modified": "2020-11-04T20:02:49+11:00"
+        },
+        {
+            "id": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-3/",
+            "url": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-3/",
+            "title": "Chapter 2: Where it continues...",
+            "summary": "<p>Nulla sapien nunc, ornare eget risus et, tincidunt dapibus mi. Etiam laoreet, quam a eleifend convallis, dolor libero placerat nisi, ut eleifend dolor nulla vitae tellus. Morbi varius, neque vitae dapibus luctus, lacus odio vulputate eros, eget aliquam ex neque sit amet mauris. Proin in neque venenatis eros hendrerit posuere. Nulla faucibus est turpis, quis malesuada libero tristique ut. Phasellus non diam odio. Vestibulum efficitur quis nisi ac viverra. Suspendisse tristique scelerisque velit eget cursus. Ut lectus ante, luctus eget erat sed, congue cursus risus. Mauris a urna lacus. Aliquam erat volutpat. Donec ut elit velit. Maecenas sodales, est sit amet vestibulum luctus, elit risus tempor libero, vel ullamcorper erat lectus sit amet arcu. Fusce vehicula, ante non pulvinar varius, est nisi rutrum diam, id elementum mi erat non tellus. Proin dolor nulla, suscipit eu augue sed, tincidunt facilisis diam. Ut luctus viverra turpis, eu efficitur purus rutrum id.</p>\n",
+            "content_html": "<p>Nulla sapien nunc, ornare eget risus et, tincidunt dapibus mi. Etiam laoreet, quam a eleifend convallis, dolor libero placerat nisi, ut eleifend dolor nulla vitae tellus. Morbi varius, neque vitae dapibus luctus, lacus odio vulputate eros, eget aliquam ex neque sit amet mauris. Proin in neque venenatis eros hendrerit posuere. Nulla faucibus est turpis, quis malesuada libero tristique ut. Phasellus non diam odio. Vestibulum efficitur quis nisi ac viverra. Suspendisse tristique scelerisque velit eget cursus. Ut lectus ante, luctus eget erat sed, congue cursus risus. Mauris a urna lacus. Aliquam erat volutpat. Donec ut elit velit. Maecenas sodales, est sit amet vestibulum luctus, elit risus tempor libero, vel ullamcorper erat lectus sit amet arcu. Fusce vehicula, ante non pulvinar varius, est nisi rutrum diam, id elementum mi erat non tellus. Proin dolor nulla, suscipit eu augue sed, tincidunt facilisis diam. Ut luctus viverra turpis, eu efficitur purus rutrum id.</p>\n\n<p>Praesent at nisi ac lorem sollicitudin tincidunt. Maecenas vestibulum efficitur ipsum vel maximus. Integer lacinia ut ex nec aliquet. Pellentesque mollis nunc nibh. Nulla suscipit eros sed placerat pellentesque. Praesent rhoncus mattis lorem nec rhoncus. Quisque tempus ipsum ut tortor pharetra, a mattis justo placerat. Ut mauris sapien, interdum in efficitur eu, mattis ut felis. Phasellus facilisis ex non mauris pulvinar euismod. Ut lacinia, massa sit amet dapibus commodo, massa ipsum dapibus dui, at rutrum magna erat eu sapien. Aenean maximus metus et luctus facilisis. Etiam nec ex sed ante molestie ullamcorper ut ut dolor. Suspendisse massa arcu, varius vitae orci vitae, sodales tincidunt nisl. Mauris blandit suscipit elit, at egestas lectus vulputate sit amet.</p>",
+            "image": "https://mkalpana.github.io/gh-pages/media/posts/5/Book1_2.jpeg",
+            "author": {
+                "name": "Test Author"
+            },
+            "tags": [
+                   "Book1"
+            ],
+            "date_published": "2020-11-04T20:01:53+11:00",
+            "date_modified": "2020-11-04T20:02:43+11:00"
+        },
+        {
+            "id": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-2/",
+            "url": "https://mkalpana.github.io/gh-pages/chapter-1-where-it-all-begins-2/",
+            "title": "Chapter 1: It all begins here",
+            "summary": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec magna neque. Aliquam luctus aliquet sapien a convallis. Quisque scelerisque nisl vel lectus auctor, eget feugiat lacus interdum. Mauris id dolor quam. Ut molestie sapien sit amet dui facilisis fringilla. Suspendisse bibendum mi at condimentum efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque finibus lorem sit amet velit facilisis, eget convallis lectus bibendum. Quisque porttitor, arcu nec egestas pulvinar, massa dolor porta eros, eu gravida leo mi nec ipsum. Ut felis metus, congue id ipsum sed, luctus ornare sapien. Integer eu venenatis orci, vel tincidunt elit. Cras vehicula erat quam. Sed vulputate, mi a efficitur dapibus, libero ipsum vulputate turpis, dictum cursus diam leo porttitor nunc.</p>\n",
+            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec magna neque. Aliquam luctus aliquet sapien a convallis. Quisque scelerisque nisl vel lectus auctor, eget feugiat lacus interdum. Mauris id dolor quam. Ut molestie sapien sit amet dui facilisis fringilla. Suspendisse bibendum mi at condimentum efficitur. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque finibus lorem sit amet velit facilisis, eget convallis lectus bibendum. Quisque porttitor, arcu nec egestas pulvinar, massa dolor porta eros, eu gravida leo mi nec ipsum. Ut felis metus, congue id ipsum sed, luctus ornare sapien. Integer eu venenatis orci, vel tincidunt elit. Cras vehicula erat quam. Sed vulputate, mi a efficitur dapibus, libero ipsum vulputate turpis, dictum cursus diam leo porttitor nunc.</p>\n\n<p>Phasellus ultricies sed justo auctor vehicula. Morbi dignissim risus vitae turpis luctus volutpat et et purus. In id feugiat diam. Phasellus facilisis suscipit orci at auctor. Aenean tristique, risus at interdum elementum, magna ex ullamcorper quam, vitae volutpat augue ex ac est. Donec rutrum eu orci at fermentum. Fusce pretium iaculis dui at pellentesque. Phasellus tincidunt semper dui ut imperdiet. Maecenas ultricies ex non magna finibus, ac fermentum dolor varius. Vestibulum velit justo, lobortis ut sem vitae, tempor sagittis neque. Suspendisse bibendum malesuada vulputate. Vivamus nibh risus, sodales sed ligula eu, dictum egestas erat. Donec a rutrum massa. Proin vel urna mollis, vulputate ex semper, fermentum tortor.</p>",
+            "image": "https://mkalpana.github.io/gh-pages/media/posts/4/Book1.jpeg",
+            "author": {
+                "name": "Test Author"
+            },
+            "tags": [
+                   "Book1"
+            ],
+            "date_published": "2020-11-04T20:00:47+11:00",
+            "date_modified": "2020-11-04T20:04:40+11:00"
+        },
+        {
             "id": "https://mkalpana.github.io/gh-pages/this-is-a-demo-post-2/",
             "url": "https://mkalpana.github.io/gh-pages/this-is-a-demo-post-2/",
             "title": "This is a demo post 2",
-            "summary": "<p> </p>\n<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. <em><strong><span style=\"color: #169179;\">Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo.</span></strong></em> In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>\n",
-            "content_html": "<p> </p>\n<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. <em><strong><span style=\"color: #169179;\">Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo.</span></strong></em> In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>\n\n<p>Donec est nulla, ornare sit amet rutrum sed, bibendum bibendum purus. Ut eleifend vestibulum venenatis. Nam commodo odio id aliquam sollicitudin. Praesent at blandit nibh, a lobortis massa. Vivamus vel ex risus. Nam sed ante enim. Ut nec leo elit. Mauris tincidunt urna quis ex scelerisque cursus.</p>\n<p>Etiam eget viverra nisi. Aliquam ornare leo vitae felis cursus, at mollis nisl placerat. Etiam est velit, volutpat placerat ante at, lacinia congue turpis. Sed molestie urna nec lacus lacinia feugiat. Sed efficitur lorem sit amet quam facilisis vulputate. Aliquam erat volutpat. Fusce at quam non elit ultrices ornare quis at odio. Maecenas vulputate in augue non mollis. Nam vel tortor venenatis, volutpat nunc eu, euismod ligula. Vestibulum non justo nec purus dictum faucibus sed ut nisi. Integer consectetur diam vel ex fringilla, at sodales ante blandit. Pellentesque tempus sem sit amet ultricies ultrices.</p>",
+            "summary": "<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. <em><strong><span style=\"color: #169179;\">Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo.</span></strong></em> In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>\n",
+            "content_html": "<p>Maecenas pulvinar nec mauris quis luctus. Vestibulum accumsan odio sollicitudin, consectetur urna vel, ullamcorper diam. Phasellus sed hendrerit enim. Proin vitae ultricies libero. <em><strong><span style=\"color: #169179;\">Vivamus at ex sit amet leo lacinia bibendum nec sit amet odio. Aenean felis nunc, varius in lacinia non, maximus nec leo.</span></strong></em> In hac habitasse platea dictumst. Duis vehicula, enim eget facilisis semper, mi leo cursus sem, quis finibus urna ante nec quam. Quisque accumsan elementum urna. Nam non bibendum erat.</p>\n\n<p>Donec est nulla, ornare sit amet rutrum sed, bibendum bibendum purus. Ut eleifend vestibulum venenatis. Nam commodo odio id aliquam sollicitudin. Praesent at blandit nibh, a lobortis massa. Vivamus vel ex risus. Nam sed ante enim. Ut nec leo elit. Mauris tincidunt urna quis ex scelerisque cursus.</p>\n<p>Etiam eget viverra nisi. Aliquam ornare leo vitae felis cursus, at mollis nisl placerat. Etiam est velit, volutpat placerat ante at, lacinia congue turpis. Sed molestie urna nec lacus lacinia feugiat. Sed efficitur lorem sit amet quam facilisis vulputate. Aliquam erat volutpat. Fusce at quam non elit ultrices ornare quis at odio. Maecenas vulputate in augue non mollis. Nam vel tortor venenatis, volutpat nunc eu, euismod ligula. Vestibulum non justo nec purus dictum faucibus sed ut nisi. Integer consectetur diam vel ex fringilla, at sodales ante blandit. Pellentesque tempus sem sit amet ultricies ultrices.</p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\"><code>const obj = { a: 5, b: 10 }<br>const target = Object.assign({}, obj)<br>console.log(target)<br>// expected output: Object { a: 5, b: 10 }</code></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
             "image": "https://mkalpana.github.io/gh-pages/media/posts/2/photo-1604419688654-254f2a20ab40.jpeg",
             "author": {
                 "name": "Test Author"
@@ -25,7 +90,7 @@
                    "more"
             ],
             "date_published": "2020-11-04T17:31:43+11:00",
-            "date_modified": "2020-11-04T18:22:00+11:00"
+            "date_modified": "2020-11-04T18:47:40+11:00"
         },
         {
             "id": "https://mkalpana.github.io/gh-pages/this-is-a-demo-post/",
